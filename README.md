@@ -1,9 +1,6 @@
 <div align="center">
-  <!-- 1. Smart Home Animation -->
-  <!-- Make sure your downloaded GIF is in your folder and named exactly 'smart-home.gif' -->
-  <img height="200" src="smart-home.gif" alt="Girl controlling Smart home" />
-  <br>
-  <sub><a href="https://iconscout.com/lottie-animations/girl" class="text-underline font-size-sm" target="_blank">Girl controlling Smart home</a> by <a href="https://iconscout.com/contributors/designsells" class="text-underline font-size-sm" target="_blank">designsells</a></sub>
+  <!-- This is a direct, live GIF link. It works instantly without downloading anything. -->
+  <img height="200" src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Girl coding animation" />
 </div>
 
 ###
@@ -76,11 +73,8 @@
 ###
 
 <div align="center">
-  <!-- 2. AI Networking Animation -->
-  <!-- Make sure your downloaded GIF is in your folder and named exactly 'ai-networking.gif' -->
-  <img height="250" src="ai-networking.gif" alt="The Girl Is Explaining Ai Networking" />
-  <br>
-  <sub><a href="https://iconscout.com/lottie-animations/the" class="text-underline font-size-sm" target="_blank">The Girl Is Explaining Ai Networking</a> by <a href="https://iconscout.com/contributors/naveed-hussain">Naveed Hussain</a> on <a href="https://iconscout.com">IconScout</a></sub>
+  <!-- Another direct, live GIF link for the bottom -->
+  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXN6Z3J6b2VxeDhnZ3Q5Z3QzZzZxeDhnZ3Q5Z3QzZzZxeDhnZ3Q5Z3QzJlcD12MV9naWZzX3NlYXJjaCZjdD1n/WUlplcMpOCEmTGBtbw/giphy.gif" alt="Tech Animation" />
 </div>
 
 ###
