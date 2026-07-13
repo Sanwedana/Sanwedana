@@ -1,6 +1,7 @@
 <div align="center">
-  <!-- 1. Smart Home Animation (Upload the GIF to your repo and paste the link in src below) -->
-  <img height="200" src="<a href="https://iconscout.com/lottie-animations/girl" class="text-underline font-size-sm" target="_blank">Girl controlling Smart home</a> by <a href="https://iconscout.com/contributors/designsells" class="text-underline font-size-sm" target="_blank">designsells</a>" alt="Girl controlling Smart home" />
+  <!-- 1. Smart Home Animation -->
+  <!-- Make sure your downloaded GIF is in your folder and named exactly 'smart-home.gif' -->
+  <img height="200" src="smart-home.gif" alt="Girl controlling Smart home" />
   <br>
   <sub><a href="https://iconscout.com/lottie-animations/girl" class="text-underline font-size-sm" target="_blank">Girl controlling Smart home</a> by <a href="https://iconscout.com/contributors/designsells" class="text-underline font-size-sm" target="_blank">designsells</a></sub>
 </div>
@@ -8,14 +9,13 @@
 ###
 
 <div align="center">
-  <!-- Replace href links with your actual social media URLs -->
-  <a href="YOUR_LINhttps://www.linkedin.com/in/sanwedana-lokhande-35332a33a/KEDIN_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/sanwedana-lokhande-35332a33a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <a href="https://www.instagram.com/sanuisinsane?igsh=NWwxOXN0OHpjdGYz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
-  <a href="YOUR_TWIhttps://x.com/sanwedana58790TTER_URL" target="_blank">
+  <a href="https://x.com/sanwedana58790" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
 </div>
@@ -76,8 +76,9 @@
 ###
 
 <div align="center">
-  <!-- 2. AI Networking Animation (Upload the GIF to your repo and paste the link in src below) -->
-  <img height="250" src="YOUR_AI_NETWORKING_GIF_LINK.gif" alt="The Girl Is Explaining Ai Networking" />
+  <!-- 2. AI Networking Animation -->
+  <!-- Make sure your downloaded GIF is in your folder and named exactly 'ai-networking.gif' -->
+  <img height="250" src="ai-networking.gif" alt="The Girl Is Explaining Ai Networking" />
   <br>
   <sub><a href="https://iconscout.com/lottie-animations/the" class="text-underline font-size-sm" target="_blank">The Girl Is Explaining Ai Networking</a> by <a href="https://iconscout.com/contributors/naveed-hussain">Naveed Hussain</a> on <a href="https://iconscout.com">IconScout</a></sub>
 </div>
