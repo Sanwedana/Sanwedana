@@ -1,9 +1,14 @@
 <div align="center">
-  <!-- This is a direct, live GIF link. It works instantly without downloading anything. -->
-  <img height="200" src="https://media.giphy.com/media/qgQUggCGvnkNC/giphy.gif" alt="Girl coding animation" />
+  <!-- 1. Top 3D Animation (Direct, instant-load link) -->
+  <img src="https://media.tenor.com/GfSXilNc4FkAAAAC/coding.gif" height="200" alt="3D Coding Animation" />
 </div>
 
-###
+<div align="center">
+  <!-- Dynamic Typing Text -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=BUILD+:+INNOVATE+:+SANWEDANA;3rd-Year+Engineering+Student;Full+Stack+Developer;Exploring+AI%2C+Machine+Learning+%26+Blockchain" alt="Typing SVG" />
+  </a>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sanwedana-lokhande-35332a33a/" target="_blank">
@@ -17,64 +22,46 @@
   </a>
 </div>
 
-###
+<br>
 
-<br clear="both">
-<h1 align="center">BUILD : INNOVATE : SANWEDANA</h1>
-
-###
-
-<h2 align="center">About Me</h2>
-
-###
-
-<p align="center"> 
-  <br><b>Welcome to my profile</b><br><br>
-  This repository is dedicated to hosting my personal projects, experiments, and contributions. As a 3rd-year engineering student and a Full Stack Developer, this serves as a hub to showcase my coding skills, learning journey, and collaborative projects.<br><br>
-  
-  <b>Goals</b><br><br>
-  Share and document personal projects in web development and software engineering.<br><br>
-  Explore and master new technologies and frameworks in AI, Machine Learning, and Blockchain.<br><br>
-  Write and share technical articles and insights.<br><br>
-  
-  <b>Future Plans</b><br><br>
-  Implement open-source projects and build tools that make an impact.<br><br>
-  Contribute to collaborative projects and push technological boundaries.<br><br>
-  Maintain a well-organized and informative repository for professional growth.
-</p>
-
-###
+### 👨‍💻 About Me & My Architecture
+> Welcome to my primary workspace. I am bridging the gap between full-stack web development and next-generation technologies. My objective is to design secure, scalable architectures and develop tools that create measurable, real-world impact.
 
 <br>
-<h3 align="center">Language and tools</h3>
 
-###
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <h3>🚀 Current Initiatives</h3>
+      <ul>
+        <li>🧠 <b>AI/ML Algorithms:</b> Architecting Multi-Modal Deepfake Detection and public verification engines.</li>
+        <li>🌍 <b>Impact Development:</b> Building automated food sharing platforms connecting donors with NGOs.</li>
+        <li>⚙️ <b>Infrastructure:</b> Exploring scalable cloud microservices, Firebase, and IoT automation.</li>
+        <li>✍️ <b>Technical Writing:</b> Publishing development articles and deep-dive book reviews.</li>
+      </ul>
+    </td>
+    <td valign="top" width="45%" align="center">
+      <h3>🛠️ Tech Arsenal</h3>
+      <!-- Unified, clean 3D-style skill icons -->
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,html,css,vscode,git,github,react,nodejs,firebase,linux&perline=4" alt="My Skills" />
+      </a>
+    </td>
+  </tr>
+</table>
 
+<br>
+
+### 📊 GitHub Analytics
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="node logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
+  <!-- Make sure to change YOUR_GITHUB_USERNAME to your actual username below! -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
 </div>
 
-###
+<br>
 
 <div align="center">
-  <!-- Another direct, live GIF link for the bottom -->
-  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bXN6Z3J6b2VxeDhnZ3Q5Z3QzZzZxeDhnZ3Q5Z3QzZzZxeDhnZ3Q5Z3QzJlcD12MV9naWZzX3NlYXJjaCZjdD1n/WUlplcMpOCEmTGBtbw/giphy.gif" alt="Tech Animation" />
+  <!-- 2. Bottom 3D AI/Network Animation (Direct, instant-load link) -->
+  <img src="https://media.tenor.com/7bEw9qI_s0QAAAAC/cyber-network.gif" height="150" alt="3D AI Network Animation" />
 </div>
-
-###
