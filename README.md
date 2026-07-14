@@ -55,8 +55,8 @@
 ### 📊 GitHub Analytics
 <div align="center">
   <!-- Make sure to change YOUR_GITHUB_USERNAME to your actual username below! -->
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Sanwedana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Sanwedana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanwedana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanwedana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
 </div>
 
 <br>
