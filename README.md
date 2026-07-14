@@ -6,7 +6,7 @@
 <div align="center">
   <!-- Dynamic Typing Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=BUILD+:+INNOVATE+:+SANWEDANA;3rd-Year+Engineering+Student;Full+Stack+Developer;Exploring+AI%2C+Machine+Learning+%26+Blockchain" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=BUILD+:+INNOVATE+:+SANWEDANA;4th-Year+Engineering+Student;Full+Stack+Developer;Exploring+AI%2C+Machine+Learning+%26+Blockchain" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,7 +24,7 @@
 
 <br>
 
-### 👨‍💻 About Me & My Architecture
+###  About Me & My Architecture
 > Welcome to my primary workspace. I am bridging the gap between full-stack web development and next-generation technologies. My objective is to design secure, scalable architectures and develop tools that create measurable, real-world impact.
 
 <br>
@@ -34,9 +34,9 @@
     <td valign="top" width="55%">
       <h3>🚀 Current Initiatives</h3>
       <ul>
-        <li>🧠 <b>AI/ML Algorithms:</b> Architecting Multi-Modal Deepfake Detection and public verification engines.</li>
-        <li>🌍 <b>Impact Development:</b> Building automated food sharing platforms connecting donors with NGOs.</li>
-        <li>⚙️ <b>Infrastructure:</b> Exploring scalable cloud microservices, Firebase, and IoT automation.</li>
+        <li>🧠 <b>AI:</b> Learning AI and building projects</li>
+        <li>🌍 <b>Impact Development:</b> Built automated food sharing platforms connecting donors with NGO , building financial assistant for rural women</li>
+        <li>⚙️ <b>Infrastructure:</b> Exploring scalable cloud microservices, and IoT automation.</li>
         <li>✍️ <b>Technical Writing:</b> Publishing development articles and deep-dive book reviews.</li>
       </ul>
     </td>
@@ -55,8 +55,8 @@
 ### 📊 GitHub Analytics
 <div align="center">
   <!-- Make sure to change YOUR_GITHUB_USERNAME to your actual username below! -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Sanwedana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Sanwedana&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
 </div>
 
 <br>
