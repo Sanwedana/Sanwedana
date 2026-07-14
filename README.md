@@ -1,6 +1,6 @@
 <div align="center">
   <!-- 1. Top 3D Animation (Direct, instant-load link) -->
-  <img src="https://media.tenor.com/GfSXilNc4FkAAAAC/coding.gif" height="200" alt="3D Coding Animation" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdnNWlxd3B2bTdpZHFuNm8ydTF4Z25iOXN1eHlnaW9ka3R3cWY5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QPUwZQSbYbt7gjjifj/giphy.gif" height="200" alt="3D Coding Animation" />
 </div>
 
 <div align="center">
