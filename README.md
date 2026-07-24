@@ -5,8 +5,9 @@
 
 <div align="center">
   <!-- Dynamic Typing Text (maintained) -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=BUILD+:+INNOVATE+:+SANWEDANA;4th-Year+Engineering+Student;Full+Stack+Developer;Exploring+AI%2C+Machine+Learning+%26+Blockchain" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=BRAINS%2C+BEAUTY+%26+BYTES;4th-Year+Engineering+Student;Full+Stack+Developer;Machine+Learning+%26+Blockchain+Enthusiast" alt="Typing SVG" />
+</a>
   </a>
 </div>
 
@@ -29,14 +30,13 @@
 <!-- Integrated user data into the mandated format, with a stylized girl ASCII -->
 
 ```text
-      <|   |>
-     {.|/|/|.}     OS: ......... Linux / Web Architecture
-     (/_=_=_\)     Uptime: ..... 4th-Year Engineering Student
-    /|  /* */ |\    Kernel: ..... MirAI B.Tech Student
-   | |( @ @ )| |   Languages: .. Python, JavaScript, C++, HTML/CSS
-   | |( ` ' )| |   Tech Stack: . React, Node.js, Firebase, Git
-   |_|_-\_=_/-_|   Hobbies: .... AI Engineering, Technical Writing, Gaming
-     /   / \   \    Projects: ... Food Sharing Platform, Deepfake Detection Engine
-    /   / <|  \   \   Contact: .... your.email@example.com (customize)
-   |   |   |   |   |  
-   |___|___|___|___|  Status: ..... "BUILD : INNOVATE : SANWEDANA"
+       .---.        OS: ......... Windows / Web Architecture
+     /_____\        Uptime: ..... 4th-Year Engineering Student
+     ( '.' )        Kernel: ..... MirAI B.Tech Student
+      \_-_/_        Languages: .. Python, JavaScript, C++, HTML/CSS
+    .-`'V'//-.      Tech Stack: . React, Node.js, Firebase, Git
+   / ,   |// , \    Hobbies: .... AI Engineering, Technical Writing, Reading
+  / /|Ll //Ll|\ \   Projects: ... Food Sharing Platform, Deepfake Detection Engine
+ / / |__//   | \_\  Contact: .... +91 9834705122
+ \ \/---|[]==| / /  
+  \/\__/ |   \/\/   Status: ..... BRAINS, BEAUTY & BYTES
